@@ -44,6 +44,14 @@ Markdown syntax)
 Please drop us an email: sherman.chen@cxworks.today
 
 ## Support Our Project by Donating
-Like every other open sourced project, we are a bunch of folks from all walks of life coming together to make this project a success. Our goal is to keep the highest of standards for this project eventhough it is free for all. We do not stand to gain anything monetary out of this project, hence every bit of funds we receive through you kindest donation will proceed straight into financing the research and development of this project. All it takes is just USD$5. Click the Paypal donate button below to make your donation today.
+Like every other open sourced project, we are a bunch of folks from
+all walks of life coming together to make this project a success.
+Our goal is to keep the highest of standards for this project
+eventhough it is free for all. We do not stand to gain anything
+monetary out of this project, hence every bit of funds we receive
+through you kindest donation will proceed straight into financing
+the research and development of this project. All it takes is just
+**USD$5**. Click the Paypal donate button below to make your donation
+today.
 
 <a href="https://www.paypal.me/cxworksllp/5"><img src="http://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-PNG-File.png" style="width: 120px; height: auto;" alt="paypal donate research project" /></a>
