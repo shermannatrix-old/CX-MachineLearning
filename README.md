@@ -38,8 +38,8 @@ to our team. We need folks for various aspects of the project:
 - Machine Learning Hackers (coders basically)
 - Creating of real-life simulated data (MongoDB skills required)
 - Web API
-- Regular updating of our documentation and API content (Fluent with
-Markdown syntax.
+- Regular updating of our documentation and API content. (Fluent with
+Markdown syntax)
 
 Please drop us an email:
 ([sherman.chen@cxworks.today](emailto:sherman.chen@cxworks.today))
