@@ -70,3 +70,15 @@ the research and development of this project. All it takes is just
 today.
 
 <a href="https://www.paypal.me/cxworksllp/5"><img src="http://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-PNG-File.png" style="width: 120px; height: auto;" alt="paypal donate research project" /></a>
+
+## Research Funding and Sponsorships
+We are also actively in the search and lookout for opportunities to
+acquire constant research funding and/or sponsorships. Terms and
+agreements of those funding and sponsorships can be negotiated. As a
+general rule of thumb, the research project's leadership holds the
+final decision on the direction of the research as it is our aim to
+follow what is trending within our world today.
+
+If you are an organisation or educational institution that is keen to
+provide sponsorship for our research programme, please kindly reach out
+to our Research Lead, Sherman to set up a discussion.
