@@ -23,12 +23,25 @@ the capabilities of good machine learning application. With the Web API,
 any development team can make use of the project to create their own dashboards,
 or modify it for their school/research/commercial use.
 
-## 2 Key Components of CX-MachineLearning
+## 3 Key Components of CX-MachineLearning
 - MongoDB 3.2 Server
 - Main Project (Python 3.6 + Flask-PyMongo)
-    - ExMachina (machine learning library)
+    - ExMachina (main AI library)
     - Web API (using Flask-PyMongo)
 - Real-time Dashboard (In the near future)
+
+### A Peak Into the Future
+- ChatBots (Automated [Human-like] Customer Service) - using Natural
+Language Processing
+- Predictive Analysis & Projections
+- Many more
+
+Apart from the existing plans to design, build and release the first
+version of CX-MachineLearning, we have a long term plan to integrate
+more aspects of Artificial Intelligence into our project, or
+project(s). CX-MachineLearning will serve as a starting point for
+Machine Learning engineers and Customer Experience professionals to
+explore the possibilities of what can be achieved.
 
 ## Looking to Collaborate?
 If you are looking for an opportunity to collaborate on an open
@@ -36,6 +49,8 @@ sourced project using Python and MongoDB, you are welcomed to write in
 to our team. We need folks for various aspects of the project:
 
 - Machine Learning Hackers (coders basically)
+- Data Scientist (even aspiring ones are welcomed, provided you know
+your stuff)
 - Creating of real-life simulated data (MongoDB skills required)
 - Web API
 - Regular updating of our documentation and API content. (Fluent with
