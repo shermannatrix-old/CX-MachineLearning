@@ -41,6 +41,25 @@ research efforts. On top of which, we will also be relying on the
 kind and generous donations of those in the community who believes in
 the direction that we are taking with this research program.
 
+## Our Team
+**Head of Research**
+<br />
+Sherman (involved in everything...as usual)
+
+**Assistant Head of Research**
+<br />
+Saifullah
+
+**AI Engineering Team (Our Hackers)**
+<br />
+Saifullah (Lead)<br />
+Zaid (Team member)
+
+**Web API/MongoDB**
+<br />
+Leo (Phuong Nguyen) (Lead)<br />
+Vacant space (Team member)
+
 ## 3 Key Components of CX-MachineLearning
 - MongoDB 3.2 Server
 - Main Project (Python 3.6 + Flask-PyMongo)
