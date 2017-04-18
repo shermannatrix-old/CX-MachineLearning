@@ -23,6 +23,24 @@ the capabilities of good machine learning application. With the Web API,
 any development team can make use of the project to create their own dashboards,
 or modify it for their school/research/commercial use.
 
+## Where We Are Currently
+Firstly, if you are here reading this documentation and introduction
+to CX-MachineLearning Research Project, then my guess is you are
+either keen to be a part of this project, or you like to follow on
+our research progress. Alternatively, you might be an individual,
+or representing an organization or educational institution seeking
+to invest/sponsor a research program.
+
+CX-MachineLearning as you can already see is currently in its infancy
+stage. Like how a baby is still forming in the womb of their mother.
+We are currently growing our research team and will eventually release
+a timeline of projected deliverables (releases) for CX-MachineLearning.
+
+We are also seeking funding & sponsorships that can help us with our
+research efforts. On top of which, we will also be relying on the
+kind and generous donations of those in the community who believes in
+the direction that we are taking with this research program.
+
 ## 3 Key Components of CX-MachineLearning
 - MongoDB 3.2 Server
 - Main Project (Python 3.6 + Flask-PyMongo)
