@@ -48,17 +48,17 @@ Sherman (involved in everything...as usual)
 
 **Assistant Head of Research**
 <br />
-Saifullah
+Oh!! We have an opening for this spot
 
 **AI Engineering Team (Our Hackers)**
 <br />
-Saifullah (Lead)<br />
+Oh!! We have an opening for this spot (Lead)<br />
 Zaid (Team member)
 
 **Web API/MongoDB**
 <br />
 Leo (Phuong Nguyen) (Lead)<br />
-Vacant space (Team member)
+Oh!! We have an opening for this spot (Team member)
 
 ## 3 Key Components of CX-MachineLearning
 - MongoDB 3.2 Server
