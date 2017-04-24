@@ -1,1 +1,1 @@
-web: gunicorn --bind www.cxmachinelearning.com:5000 app:main-api
+web: gunicorn --bind 127.0.0.1:5000 main-api:app
