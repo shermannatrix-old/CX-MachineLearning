@@ -8,6 +8,19 @@ app.config['MONGO_URI'] = 'mongodb://cxadminuser:cxadmin2017@ds161960.mlab.com:6
 
 mongo = PyMongo(app)
 
+@app.route('/', methods=[GET])
+def get_index():
+    customers = mongo.db.customers
+
+    output = []
+
+    for c in customers.find():
+        output.append({'_id': c['_id'], 'first_name': c['first_name'],
+                       'last_name': c['last_name'],
+                       'date_of_birth': c['date_of_birth'],
+                       'is_online': c['is_online']})
+
+    return jsonify({'results': output})
 
 @app.route('/customers', methods=['GET'])
 def get_all_customers():
