@@ -8,7 +8,7 @@ app.config['MONGO_URI'] = 'mongodb://cxadminuser:cxadmin2017@ds161960.mlab.com:6
 
 mongo = PyMongo(app)
 
-@app.route('/', methods=[GET])
+@app.route('/', methods=['GET'])
 def get_index():
     customers = mongo.db.customers
 
