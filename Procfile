@@ -1,1 +1,1 @@
-web: python main-api.py 127.0.0.1:5000
+web: python main-api.py 0.0.0.0:5000
