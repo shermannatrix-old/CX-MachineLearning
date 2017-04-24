@@ -1,1 +1,1 @@
-web: python main-api.py
+web: python main-api.py cx-machinelearning.herokuapp.com:5000
