@@ -109,6 +109,8 @@ today.
 <a href="https://www.paypal.me/cxworksllp/5"><img src="http://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-PNG-File.png" style="width: 120px; height: auto;" alt="paypal donate research project" /></a>
 
 ## Research Funding and Sponsorships
+<a href="https://www.indiegogo.com/projects/open-sourced-cx-machinelearning-research/x/16610850#/">https://www.indiegogo.com/projects/open-sourced-cx-machinelearning-research/x/16610850#/</a>
+
 We are also actively in the search and lookout for opportunities to
 acquire constant research funding and/or sponsorships. Terms and
 agreements of those funding and sponsorships can be negotiated. As a
@@ -119,3 +121,5 @@ follow what is trending within our world today.
 If you are an organisation or educational institution that is keen to
 provide sponsorship for our research programme, please kindly reach out
 to our Research Lead, Sherman to set up a discussion.
+
+If you also prefer, we have a crowdfunding campaign set up so you can help our cause and research by contributing via that channel.
